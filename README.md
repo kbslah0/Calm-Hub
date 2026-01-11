@@ -1,4 +1,4 @@
-# 🛡️ Calm Hub V7 - Advanced External Gaming Utility
+# 🛡️ Calm Hub V8 - Advanced External Gaming Utility
 
 **Calm Hub** is a premium, Python-based external assistance tool designed for gamers who demand precision and safety. Unlike basic scripts, Calm Hub utilizes a **Smart Smoothing Algorithm** to simulate human-like mouse movement, ensuring liquid-smooth tracking and high security.
 
